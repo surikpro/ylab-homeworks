@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         Generator randomNumbersGenerator = new GeneratorImpl();
         int[][] twoDimensionalArray = new int[10][10];
